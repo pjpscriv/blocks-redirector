@@ -1,0 +1,19 @@
+[
+    {
+      "id" : 1,
+      "priority": 1,
+      "action": {
+        "type": "redirect",
+        "redirect": {
+            "transform": {
+                "scheme": "https",
+                "host": "blocks.roadtolarissa.com"
+            }
+        }
+      },
+      "condition": {
+        "urlFilter": "*://bl.ocks.org/*",
+        "resourceTypes": [ "main_frame" ]
+      }
+    }
+]

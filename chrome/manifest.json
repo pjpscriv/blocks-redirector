@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "bl.ocks Redirector",
+    "version": "1.0.0",
+    "description": "Redirects links to the now-dead bl.ocks.org to the clone at blocks.roadtolarissa.com.",
+    "icons": {
+        "16": "icons/blocks-redirect-16.png",
+        "48": "icons/blocks-redirect-48.png",
+        "128": "icons/blocks-redirect-128.png"
+    },
+    "declarative_net_request": {
+        "rule_resources": [{
+            "id": "ruleset_1",
+            "enabled": true,
+            "path": "rules_1.json"
+        }]
+    },
+    "permissions": [
+        "declarativeNetRequestWithHostAccess"
+    ],
+    "host_permissions": [
+        "*://bl.ocks.org/*"
+    ]
+}

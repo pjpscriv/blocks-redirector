@@ -1,0 +1,6 @@
+# Chrome build artifacts
+*/_metadata/*
+*.zip
+
+# Firefox build artifacts
+
