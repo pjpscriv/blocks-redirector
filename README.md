@@ -15,12 +15,18 @@
   <i>(Extensions currently pending approval)</i>
 </p>
 
-Chrome & Firefox extensions for redirecting now-dead bl.ocks.org links to blocks.roadtolarissa.com.
+Chrome & Firefox extensions for redirecting now-dead [bl.ocks.org](https://bl.ocks.org) links to [blocks.roadtolarissa.com](https://blocks.roadtolarissa.com).
 
 ## Installation
 See the links above.
 
 ## Development
-For Chrome see [Developing extensions page]().
+All the required files for each extension live in their seperate folders.
 
-For Firefox see [this page](). Firefox requires `web-ext` for packaging the extesion: `npm install --global web-ext`.
+All of the Chrome extension files live in `chrome/`. For details for how to load these files into Chrome see [this page](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked).
+
+All of the Firefox addon files live in `firefox/`. For details on the development workflow see [this page](https://extensionworkshop.com/documentation/develop/firefox-workflow-overview/). Firefox uses the node `web-ext` package for packaging the extension, this can be installed with:
+
+```
+npm install --global web-ext
+```
