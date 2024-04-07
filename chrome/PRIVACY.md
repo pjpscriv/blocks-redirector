@@ -2,4 +2,4 @@
 
 > _Created as a requirement for submitting to the Chrome Webstore._
 
-bl.ocks Redirctor does not collect, use or share any user data.
+bl.ocks Redirector does not collect, use or share any user data.
