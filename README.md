@@ -7,7 +7,7 @@
     <picture style="filter: grayscale(1)">
       <source srcset="https://i.imgur.com/XBIE9pk.png" media="(prefers-color-scheme: dark)">
       <img height="58" src="https://i.imgur.com/oGxig2F.png" alt="Chrome Web Store"></picture></a>
-  <a href="https://addons.mozilla.org/firefox/addon/#">
+  <a href="https://addons.mozilla.org/firefox/addon/bl-ocks-redirector/">
     <picture style="filter: grayscale(1)">
       <source srcset="https://i.imgur.com/ZluoP7T.png" media="(prefers-color-scheme: dark)">
       <img height="58" src="https://i.imgur.com/4PobQqE.png" alt="Firefox add-ons"></picture></a>
