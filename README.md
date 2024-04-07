@@ -12,7 +12,7 @@
       <source srcset="https://i.imgur.com/ZluoP7T.png" media="(prefers-color-scheme: dark)">
       <img height="58" src="https://i.imgur.com/4PobQqE.png" alt="Firefox add-ons"></picture></a>
   </br></br>
-  <i>(Extensions currently pending approval)</i>
+  <i>(Chrome extension currently pending approval)</i>
 </p>
 
 Chrome & Firefox extensions for redirecting now-dead [bl.ocks.org](https://bl.ocks.org) links to [blocks.roadtolarissa.com](https://blocks.roadtolarissa.com).
