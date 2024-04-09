@@ -3,8 +3,8 @@
 
 <p align="center">
   </br></br>
-  <a href="https://chrome.google.com/webstore/detail/#">
-    <picture style="filter: grayscale(1)">
+  <a href="https://chrome.google.com/webstore/detail/blocks-redirector/cknihpkcmplnaglhkficemnbicejdjhl">
+    <picture>
       <source srcset="https://i.imgur.com/XBIE9pk.png" media="(prefers-color-scheme: dark)">
       <img height="58" src="https://i.imgur.com/oGxig2F.png" alt="Chrome Web Store"></picture></a>
   <a href="https://addons.mozilla.org/firefox/addon/bl-ocks-redirector/">
@@ -12,7 +12,6 @@
       <source srcset="https://i.imgur.com/ZluoP7T.png" media="(prefers-color-scheme: dark)">
       <img height="58" src="https://i.imgur.com/4PobQqE.png" alt="Firefox add-ons"></picture></a>
   </br></br>
-  <i>(Chrome extension currently pending approval)</i>
 </p>
 
 Chrome & Firefox extensions for redirecting now-dead [bl.ocks.org](https://bl.ocks.org) links to [blocks.roadtolarissa.com](https://blocks.roadtolarissa.com).
