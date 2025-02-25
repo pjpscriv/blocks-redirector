@@ -2,7 +2,7 @@
 <h1 align="center">bl.ocks Redirector</h1>
 
 <p align="center">
-  </br></br>
+<!--   </br></br> -->
   <a href="https://chrome.google.com/webstore/detail/blocks-redirector/cknihpkcmplnaglhkficemnbicejdjhl">
     <picture>
       <source srcset="https://i.imgur.com/XBIE9pk.png" media="(prefers-color-scheme: dark)">
