@@ -1,17 +1,19 @@
-<p align="center"><img width="128" height="128" src="https://raw.githubusercontent.com/pjpscriv/blocks-redirector/main/firefox/icons/blocks-redirect-219.png"></p>
-<h1 align="center">bl.ocks Redirector</h1>
+<h1>
+    <img width="32" height="32" src="https://raw.githubusercontent.com/pjpscriv/blocks-redirector/main/firefox/icons/blocks-redirect-219.png">
+    bl.ocks Redirector
+</h1>
 
-<p align="center">
-<!--   </br></br> -->
-  <a href="https://chrome.google.com/webstore/detail/blocks-redirector/cknihpkcmplnaglhkficemnbicejdjhl">
-    <picture>
-      <source srcset="https://i.imgur.com/XBIE9pk.png" media="(prefers-color-scheme: dark)">
-      <img height="58" src="https://i.imgur.com/oGxig2F.png" alt="Chrome Web Store"></picture></a>
-  <a href="https://addons.mozilla.org/firefox/addon/bl-ocks-redirector/">
-    <picture style="filter: grayscale(1)">
-      <source srcset="https://i.imgur.com/ZluoP7T.png" media="(prefers-color-scheme: dark)">
-      <img height="58" src="https://i.imgur.com/4PobQqE.png" alt="Firefox add-ons"></picture></a>
-  </br></br>
+<p>
+  <picture>
+    <a href="https://chromewebstore.google.com/detail/blocks-redirector/cknihpkcmplnaglhkficemnbicejdjhl">
+      <img src="https://img.shields.io/chrome-web-store/users/cknihpkcmplnaglhkficemnbicejdjhl?style=flat-square&logo=google-chrome&logoColor=white&label=Chrome%20users&color=%234285F4" alt="Chrome Web Store">
+    </a>
+  </picture>
+  <picture>
+    <a href="https://addons.mozilla.org/en-GB/firefox/addon/bl-ocks-redirector/">
+      <img src="https://img.shields.io/amo/users/bl-ocks-redirector?style=flat-square&logo=firefox&logoColor=white&label=Firefox%20users&color=%23FF7139" alt="Firefox add-ons">
+    </a>
+  </picture>
 </p>
 
 Chrome & Firefox extensions for redirecting now-dead [bl.ocks.org](https://bl.ocks.org) links to [blocks.roadtolarissa.com](https://blocks.roadtolarissa.com).
